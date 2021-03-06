@@ -312,3 +312,8 @@ YTFZF_PLAYER_FORMAT="devour mpv --ytdl-format="
 - You can join the discord server
 1515
 <a href="https://discord.gg/KnGrq6RK"><img src="https://img.shields.io/discord/815609275644117022.svg?label=discord&logo=discord" alt="Discord"></a>
+<<<<<<< HEAD
+12345
+=======
+Hello my friends
+>>>>>>> branch2

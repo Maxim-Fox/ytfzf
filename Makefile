@@ -10,3 +10,8 @@ uninstall:
 	rm -f ${DESTDIR}${PREFIX}/bin/${PROG}
 0001515
 .PHONY: install uninstall
+<<<<<<< HEAD
+2281337
+=======
+HELLOHIHI
+>>>>>>> branch2
