@@ -10,3 +10,4 @@ uninstall:
 	rm -f ${DESTDIR}${PREFIX}/bin/${PROG}
 
 .PHONY: install uninstall
+HELLOHIHI
